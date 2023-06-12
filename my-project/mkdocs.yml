@@ -1,0 +1,15 @@
+site_name: Dylan Y
+
+nav:
+    - home: index.md
+    - about: about.md
+    - Lists: lists.md
+    - arrays: arrays.md
+    - Linked lists: linked_lists.md
+    - stack: stack.md
+    - queues: queues.md
+    - trees: trees.md
+    - graphs: graphs.md
+    - sets: sets.md
+    - hash tables: hash_tables.md
+
